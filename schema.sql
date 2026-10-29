@@ -1,0 +1,9 @@
+-- CREATE TABLE user (
+--     id VARCHAR(50) PRIMARY KEY,
+--     username VARCHAR(50) NOT NULL UNIQUE,
+--     email VARCHAR(50) NOT NULL UNIQUE,
+--     password_hash VARCHAR(255) NOT NULL,
+--     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+-- );
+-- USE delta_app;
+-- ALTER TABLE user MODIFY id VARCHAR(50);
